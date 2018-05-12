@@ -1,0 +1,28 @@
+_repo: Gedichte-und-Spr-che-in-Auswahl_35795
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35795-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Walther, von der Vogelweide, active 12th century
+    aliases:
+    - Vogelweide, Walther von der
+    - Walter, von der Vogelweide
+    gutenberg_agent_id: '37904'
+    url: http://www.gutenberg.org/2009/agents/37904
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2011-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35795'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German poetry -- Middle High German, 1050-1500'
+title: Gedichte und Sprüche in Auswahl
+url: http://www.gutenberg.org/ebooks/35795
